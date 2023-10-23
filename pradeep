@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+
+
+    <h1><u><center>gedela pradeep</center></u></h1>
+    <p>email:gedelapradeep0@gmail.com</p>
+    <P>mobile no:8309888944
+    <p>vskp ,532168</p>
+    <hr>
+    <h2>Objective :</h2>
+    <p>Leveling up my skills in organisation</p>
+    <hr>
+
+<table border="2">
+
+<tr>
+<th>S.no</th>
+<th>Education</th>
+<th>college name</th>
+<th>C.G.PA</th>
+</tr>
+<tr>
+<td>1</td>
+<td>M.SC computers</td>
+<td>gvp</td>
+<td>7.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>B.SC computers</td>
+<td>gvp</td>
+<td>7.0</td>
+</tr>
+</center>
+
+
+
+</table>
+    <hr>
+    <h2>Technical Skills :</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Java script</li>
+        <li>Python</li>
+    </ul>
+    <hr>
+    <h2>Soft Skills:</h2>
+    <ul>
+        <li>Good team player</li>
+        <li>Great Communication Skills</li>
+        <li>Good in tune management</li>
+    </ul>
+    <hr>
+    <h2>Declaration :</h2>
+    <pre>                 I here by declare that above details are correct.</p>
+
+
+</body>
+</html>
